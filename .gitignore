@@ -9,6 +9,11 @@
 
 # production
 /build
+package-lock.json
+
+# gh-pages
+/_site
+Gemfile.lock
 
 # ide
 /.idea
